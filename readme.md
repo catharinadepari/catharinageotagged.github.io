@@ -11,13 +11,12 @@ The QGIS map was produced based on geo-tagged tweet data gathering using API-bas
 ### :bulb: Analysis
 There are two interpretations that can be drawn from the map.
 - ***First***, the orange circles represents how the geo-tagged tweet data about social distancing are distributed unevenly throughout the United States. When compared to the U.S. CDC's database **[6]**, the COVID-19 cases distributions map is inline with the tweet data distribution on this map. The higher the COVID-19 cases were concentrated in the U.S., the higher people's responses to social distancing in those areas. This suggests that people's perceptions on social distancing in the U.S. is strongly associated with the COVID-19 pandemic.
-- ***Second***, the tweet data are more dense in areas along the U.S.territorial boundaries with concentration on the East Coast, and relatively disappear as going inward.The tweet data are more dense in the East Coast rather than other parts of U.S. mainly because its regions are highly affected by COVID-19, for instance New York State which is the epicentrum of the pandemic. Similar trend of tweet data accummulations also occurs in New York's neighbors such as New Jersey, Washington, D.C., Philadelphia, and Maryland. In general, the social distancing following the COVID-19 pandemic highly influenced people's perceptions and public discussions via social media Twittter in the East Coast whose regions are ranked as the most affected by the COVID-19 to this date.
-<br>
+- ***Second***, the tweet data are more dense in areas along the U.S.territorial boundaries with concentration on the East Coast, and relatively disappear as going inward.The tweet data are more dense in the East Coast rather than other parts of U.S. mainly because its regions are highly affected by COVID-19, for instance New York State which is the epicentrum of the pandemic. Similar trend of tweet data accummulations also occurs in New York's neighbors such as New Jersey, Washington, D.C., Philadelphia, and Maryland. In general, the social distancing following the COVID-19 pandemic highly influenced people's perceptions and public discussions via social media Twittter in the East Coast whose regions are ranked as the most affected by the COVID-19 to this date.<br>
 
-:link: References <br>
-- [1] Kay, S., Zhao B., Sui D., 2015, "Can Social Media Clean The Air? A Case Study of the Air Pollution Problem in Chinese Cities", Journal of the Professional Geographer: Taylor and Francis Group, LLC. <br>
-- [2] US CDC's COVID-19 cases data:https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html#anchor_1586784349 <br>
-- [3] Statista's Data of Leading Countries for Twitter: https://www.statista.com/statistics/242606/number-of-active-twitter-users-in-selected-countries/ <br>
-- [4] United Nation's World Health Organization: Coronavirus (COVID-19): https://covid19.who.int/ <br>
-- [5] Social Distancing: https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html#anchor_1586784349 <br>
-- [6] US CDC's COVID-19 cases map: https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html
+### References <br>
+[1] Kay, S., Zhao B., Sui D., 2015, ***Can Social Media Clean The Air? A Case Study of the Air Pollution Problem in Chinese Cities***, Journal of the Professional Geographer: Taylor and Francis Group, LLC. <br>
+[2] US CDC's COVID-19 cases data: <https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html#anchor_1586784349> <br>
+[3] Statista's Data of Twitter Users: <https://www.statista.com/statistics/242606/number-of-active-twitter-users-in-selected-countries/> <br>
+[4] United Nation's World Health Organization: Coronavirus (COVID-19):<https://covid19.who.int/><br>
+[5] Social Distancing: <https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html#anchor_1586784349> <br>
+[6] US CDC's COVID-19 cases map: <https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html>
